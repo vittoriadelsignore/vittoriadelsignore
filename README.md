@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vittoriadelsignore
-- 👀 I’m interested in Dana Analytics, Data Science, Reporting, Business Intelligence
+- 👀 I’m interested in Data Analytics, Data Science, Reporting, Business Intelligence, Marketing Analytics
 - 🌱 I’m currently learning Data Science with Python
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me ...
