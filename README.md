@@ -1,3 +1,7 @@
+<h1> Hello everyone! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
 - 👋 Hi, I’m @vittoriadelsignore
 - 👀 I'm chemical engineer. I’m interested in Data Analytics, Data Science, Reporting, Business Intelligence, Marketing Analytics
 - 🌱 I’m currently using Data Science with Python and R
