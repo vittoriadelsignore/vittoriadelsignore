@@ -5,7 +5,8 @@
 - 💻 I like the constant learning 
 - 📫 I'm living in Argentina!
 
-
+# LinkedIn
+https://www.linkedin.com/in/vittoriadelsignore/
 
 
 <!---
