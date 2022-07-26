@@ -5,8 +5,15 @@
 - 💻 I like the constant learning 
 - 📫 I'm living in Argentina!
 
-# LinkedIn
-https://www.linkedin.com/in/vittoriadelsignore/
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/vittoriadelsignore/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+</p>
 
 
 <!---
