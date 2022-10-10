@@ -35,7 +35,10 @@
       width="40" height="40" /> </a>  
       <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Logo%20Numpy.png" alt="numpy"
-      width="40" height="40" /> </a>  
+      width="60" height="40" /> </a>  
+      <a href="https://www.jupyter.org" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Jupyter.svg" alt="jupyter"
+      width="80" height="40" /> </a> 
 
 </p>
 
