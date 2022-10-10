@@ -29,7 +29,7 @@
       alt="mysql" width="40" height="40" /> </a> </a>  
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/pandas.png"
-      alt="pandas" width="40" height="40" /> </a>  
+      alt="pandas" width="60" height="40" /> </a>  
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a>  
