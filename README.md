@@ -38,8 +38,11 @@
       width="60" height="40" /> </a>  
       <a href="https://www.jupyter.org" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Jupyter.svg" alt="jupyter"
-      width="80" height="40" /> </a> 
-
+      width="60" height="40" /> </a> 
+      <a href="https://www.matplotlib.org" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Matplotlib.svg" alt="matplotlib"
+      width="60" height="40" /> </a> 
+      
 </p>
 
 <br>
