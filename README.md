@@ -32,7 +32,12 @@
       alt="pandas" width="40" height="40" /> </a>  
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a>  </p>
+      width="40" height="40" /> </a>  
+      <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img
+      src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Logo%20Numpy.png)" alt="numpy"
+      width="40" height="40" /> </a>  
+
+</p>
 
 <br>
 
