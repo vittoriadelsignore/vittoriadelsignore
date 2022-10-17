@@ -42,6 +42,9 @@
       <a href="https://www.matplotlib.org" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Matplotlib.svg" alt="matplotlib"
       width="60" height="40" /> </a> 
+      <a href="https://www.scikit-learn.org" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/scikit-learn-logo-small.png" alt="scikit-learn"
+      width="60" height="40" /> </a> 
       
 </p>
 
