@@ -9,6 +9,7 @@
 - 💻 I like the constant learning 
 - 🌱 I'm from Venezuela
 - 📫 I'm living in Argentina
+- I'm learning HTML and CSS
 
 
 <br>
