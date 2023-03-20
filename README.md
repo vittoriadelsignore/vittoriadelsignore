@@ -45,6 +45,7 @@
       <a href="https://www.scikit-learn.org" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/scikit-learn-logo-small.png" alt="scikit-learn"
       width="60" height="40" /> </a> 
+      <a href="https://www.lenguajehtml.com" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/html.png" alt="html"
       width="60" height="40" /> </a> 
           
