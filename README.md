@@ -49,7 +49,10 @@
       <a href="https://www.lenguajehtml.com" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/html.png" alt="html"
       width="60" height="40" /> </a> 
-          
+      <br>
+      <a href="https://www.office.com" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Office%20Logo.png" alt="Office"
+      width="60" height="40" /> </a> 
    
 </p>
 
