@@ -24,15 +24,10 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-
-            <li>Enero</li>
-            <li>Febrero</li>
-        
-
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
- <li><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a>   </li> 
+      alt="mysql" width="40" height="40" /> </a> 
   
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/pandas.png"
