@@ -53,6 +53,9 @@
       <a href="https://www.office.com" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Office%20Logo.png" alt="Office"
       width="60" height="40" /> </a> 
+      <a href="https://powerbi.microsoft.com/es-es/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Power%20BI%20Logo.png" alt="Office"
+      width="60" height="40" /> </a> 
    
 </p>
 
