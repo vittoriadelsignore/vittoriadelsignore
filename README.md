@@ -9,7 +9,7 @@
 - 💻 I like the constant learning 
 - 🌱 I'm from Venezuela
 - 📫 I'm living in Argentina
-- I'm learning HTML and CSS
+
 
 
 <br>
@@ -24,6 +24,7 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
+<li>Verano</li>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
