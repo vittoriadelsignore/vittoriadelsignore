@@ -58,10 +58,10 @@
       width="60" height="40" /> </a> 
       <a href="https://lookerstudio.google.com/u/0/navigation/reporting" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Looker%20Logo.png" alt="Office"
-      width="60" height="40" /> </a> 
+      width="80" height="40" /> </a> 
       <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Tableau%20Logo.png" alt="Office"
-      width="60" height="40" /> </a> 
+      width="80" height="40" /> </a> 
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/VSC%20Logo.png" alt="Office"
       width="60" height="40" /> </a>
