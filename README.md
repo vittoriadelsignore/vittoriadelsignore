@@ -24,7 +24,22 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<li>Verano</li>
+<ol type="I">
+            <li>Enero</li>
+            <li>Febrero</li>
+        <ul>
+            <li>Primera Quincena</li>
+            <li>Segunda Quincena</li>
+
+        </ul>
+        <li>Otoño</li>
+        <ol>
+            <li>Abril</li>
+            <li>Mayo</li>
+            <li>Junio</li>
+
+        </ol>
+
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
