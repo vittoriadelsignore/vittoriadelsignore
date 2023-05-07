@@ -72,7 +72,7 @@
 ## Curso Big Data - Codo a Codo 
 Tools: Excel, Google Data Studio, Python and SQL Data Analysis 
 ### [LINK!]
-![bigdata](https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/TP%20final.gif)
+![bigdata](https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/TP%20Final%20gif.gif)
   
 
 ### Thank you for visiting my profile 🤓 
