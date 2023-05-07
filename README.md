@@ -69,8 +69,13 @@
 
 <br>
   
-Curso Big Data - Codo a Codo 
-### [LINK!](https://deepnote.com/@vittoriadelsignore/TP-Final-Integrador-VDS-c04b03e7-afb4-45d4-99ac-cc965e6430ce)  
+## Curso Big Data - Codo a Codo 
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)&nbsp;
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)&nbsp;
+![Looker](https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Looker%20Logo.png)&nbsp;  
+
+Tools: Google Data Studio, Python and SQL Data Analysis 
+### [LINK!](https://deepnote.com/@vittoriadelsignore/TP-Final-Integrador-VDS-c04b03e7-afb4-45d4-99ac-cc965e6430ce)
 
 ### Thank you for visiting my profile 🤓 
 
