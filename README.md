@@ -45,7 +45,7 @@
       width="60" height="40" /> </a> 
       <a href="https://www.scikit-learn.org" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/scikit-learn-logo-small.png" alt="scikit-learn"
-      width="60" height="40" /> </a> 
+      width="60" height="30" /> </a> 
       <a href="https://www.lenguajehtml.com" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/html.png" alt="html"
       width="60" height="40" /> </a> 
@@ -58,7 +58,7 @@
       width="60" height="40" /> </a> 
       <a href="https://lookerstudio.google.com/u/0/navigation/reporting" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Looker%20Logo.png" alt="Office"
-      width="80" height="30" /> </a> 
+      width="80" height="25" /> </a> 
       <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Tableau%20Logo.png" alt="Office"
       width="80" height="30" /> </a> 
