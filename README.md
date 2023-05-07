@@ -71,8 +71,7 @@
   
 ## Curso Big Data - Codo a Codo 
 Tools: Excel, Google Data Studio, Python and SQL Data Analysis 
-### [LINK!](https://deepnote.com/@vittoriadelsignore/TP-Final-Integrador-VDS-c04b03e7-afb4-45d4-99ac-cc965e6430ce)
-![bigdata](https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/TP%20Final%20Integrador%20-%20VDS%20-%20Google%20Chrome%202023-05-07%2019-29-33.mp4)
+### [LINK!](https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/TP%20final.gif)
   
 
 ### Thank you for visiting my profile 🤓 
