@@ -24,26 +24,16 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<ol type="I">
+
             <li>Enero</li>
             <li>Febrero</li>
-        <ul>
-            <li>Primera Quincena</li>
-            <li>Segunda Quincena</li>
-
-        </ul>
-        <li>Otoño</li>
-        <ol>
-            <li>Abril</li>
-            <li>Mayo</li>
-            <li>Junio</li>
-
-        </ol>
+        
 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+ <li><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> 
+      alt="mysql" width="40" height="40" /> </a>   </li> 
+  
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/pandas.png"
       alt="pandas" width="60" height="40" /> </a>  
