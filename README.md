@@ -28,44 +28,44 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> 
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
+      &nbsp&nbsp&nbsp <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/pandas.png"
       alt="pandas" width="60" height="40" /> </a>  
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      &nbsp&nbsp&nbsp <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a>  
-      <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img
+      &nbsp&nbsp&nbsp <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Logo%20Numpy.png" alt="numpy"
       width="60" height="40" /> </a>  
-      <a href="https://www.jupyter.org" target="_blank" rel="noreferrer"> <img
+      &nbsp&nbsp&nbsp <a href="https://www.jupyter.org" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Jupyter.svg" alt="jupyter"
       width="60" height="30" /> </a> 
-      <a href="https://www.matplotlib.org" target="_blank" rel="noreferrer"> <img
+      &nbsp&nbsp&nbsp <a href="https://www.matplotlib.org" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Matplotlib.svg" alt="matplotlib"
       width="60" height="40" /> </a> 
-      <a href="https://www.scikit-learn.org" target="_blank" rel="noreferrer"> <img
+      &nbsp&nbsp&nbsp <a href="https://www.scikit-learn.org" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/scikit-learn-logo-small.png" alt="scikit-learn"
       width="60" height="30" /> </a> 
-      <a href="https://www.lenguajehtml.com" target="_blank" rel="noreferrer"> <img
+      &nbsp&nbsp&nbsp <a href="https://www.lenguajehtml.com" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/html.png" alt="html"
       width="60" height="40" /> </a> 
       <br>
-      <a href="https://www.office.com" target="_blank" rel="noreferrer"> <img
+      &nbsp&nbsp&nbsp <a href="https://www.office.com" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Office%20Logo.png" alt="Office"
       width="60" height="40" /> </a> 
-      <a href="https://powerbi.microsoft.com/es-es/" target="_blank" rel="noreferrer"> <img
+      &nbsp&nbsp&nbsp <a href="https://powerbi.microsoft.com/es-es/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Power%20BI%20Logo.png" alt="Power BI"
       width="60" height="40" /> </a> 
-      <a href="https://lookerstudio.google.com/u/0/navigation/reporting" target="_blank" rel="noreferrer"> <img
+      &nbsp&nbsp&nbsp <a href="https://lookerstudio.google.com/u/0/navigation/reporting" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Looker%20Logo.png" alt="Looker Studio"
       width="80" height="25" /> </a> 
-      <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img
+      &nbsp&nbsp&nbsp <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Tableau%20Logo.png" alt="Tableau"
       width="80" height="30" /> </a> 
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
+      &nbsp&nbsp&nbsp <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/VSC%20Logo.png" alt="Visual Studio Code"
       width="60" height="40" /> </a>
-      <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img
+      &nbsp&nbsp&nbsp <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Logo%20R.png" alt="R"
       width="60" height="40" /> </a>
 </p>
