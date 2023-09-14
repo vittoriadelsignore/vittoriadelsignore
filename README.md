@@ -66,7 +66,7 @@
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/VSC%20Logo.png" alt="Visual Studio Code"
       width="60" height="40" /> </a>
       <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/vittoriadelsignore/vittoriadelsignore/commit/ee59cec630686c2f316ee6cd1166abf8a8629436" alt="R"
+      src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Logo%20R.png" alt="R"
       width="60" height="40" /> </a>
 </p>
 
