@@ -54,16 +54,19 @@
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Office%20Logo.png" alt="Office"
       width="60" height="40" /> </a> 
       <a href="https://powerbi.microsoft.com/es-es/" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Power%20BI%20Logo.png" alt="Office"
+      src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Power%20BI%20Logo.png" alt="Power BI"
       width="60" height="40" /> </a> 
       <a href="https://lookerstudio.google.com/u/0/navigation/reporting" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Looker%20Logo.png" alt="Office"
+      src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Looker%20Logo.png" alt="Looker Studio"
       width="80" height="25" /> </a> 
       <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Tableau%20Logo.png" alt="Office"
+      src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Tableau%20Logo.png" alt="Tableau"
       width="80" height="30" /> </a> 
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/VSC%20Logo.png" alt="Office"
+      src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/VSC%20Logo.png" alt="Visual Studio Code"
+      width="60" height="40" /> </a>
+      <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/vittoriadelsignore/vittoriadelsignore/commit/ee59cec630686c2f316ee6cd1166abf8a8629436" alt="R"
       width="60" height="40" /> </a>
 </p>
 
