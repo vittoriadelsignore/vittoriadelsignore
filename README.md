@@ -7,8 +7,6 @@
 - 🌱 I’m currently using Data Science with Python and R
 - 💞️ I’m looking to collaborate on Python Projects
 - 💻 Learning every day 
-- 🌱 I'm from Venezuela
-- 📫 I'm living in Argentina
 
 
 
