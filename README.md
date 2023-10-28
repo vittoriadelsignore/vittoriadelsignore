@@ -75,6 +75,11 @@ Tools: Excel, Google Data Studio, Python and SQL Data Analysis
 ### [LINK!](https://deepnote.com/@vittoriadelsignore/TP-Final-Integrador-VDS-c04b03e7-afb4-45d4-99ac-cc965e6430ce)
 ![bigdata](https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/TP%20Final%20gif.gif)
   
+## Curso Machine Learning - Argentina Programa 
+Tools: Python
+### [LINK!](https://github.com/vittoriadelsignore/CURSO_ARGENTINA_PROGRAMA/blob/master/TRAMO%202/v3.%20TP%20Integrador%201%20-%20Vittoria%20Del%20Signore%20(Individual)%20.ipynb)
+![TP1 tramo 2 - Argentina Programa](https://github.com/vittoriadelsignore/CURSO_ARGENTINA_PROGRAMA/blob/master/TRAMO%202/v3.%20TP%20Integrador%201%20-%20Vittoria%20Del%20Signore%20(Individual)%20.ipynb%20-%20Colaboratory%20-%20Google%20Chrome%202023-10-27%2023-37-39.mp4)
+
 
 ### Thank you for visiting my profile 🤓 
 
