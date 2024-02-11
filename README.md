@@ -83,7 +83,6 @@ Tools: Python
 ![TP1 tramo 2 - Argentina Programa](https://github.com/vittoriadelsignore/CURSO_ARGENTINA_PROGRAMA/blob/master/TRAMO%202/v3.%20TP%20Integrador%201%20-%20Vittoria%20Del%20Signore%20(Individual)%20.ipynb%20-%20Colaboratory%20-%20Google%20Chrome%202023-10-27%2023-37-39.mp4)
 
 ## Análisis 
-### [LINK!](https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Analisis%20Diagnostico%20Bajas%20de%20Carrefour%20(circulo%20super)%20-%20PowerPoint%202024-02-11%2011-59-15.gif)
 ![Análisis](https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Analisis%20Diagnostico%20Bajas%20de%20Carrefour%20(circulo%20super)%20-%20PowerPoint%202024-02-11%2011-59-15.gif)
 
 ### Thank you for visiting my profile 🤓 
