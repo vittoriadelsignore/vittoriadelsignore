@@ -8,6 +8,7 @@
 - 💞️ I’m looking to collaborate on Python Projects
 - 💻 Learning every day 
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=vittoriadelsignore)
 
 
 <br>
