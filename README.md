@@ -6,7 +6,8 @@
 - 👀 I'm a chemical engineer. I’m interested in Data Analytics, Data Science, Reporting, Business Intelligence, Marketing Analytics
 - 🌱 I’m currently using Data Science with Python and R
 - 💞️ I’m looking to collaborate on Python Projects
-- 💻 Learning every day 
+- 💻 Learning every day
+- 📫 Contact me [E-mail](mailto:vdelsignore@gmail.com), [LinkedIn](https://www.linkedin.com/in/vittoriadelsignore/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vittoriadelsignore)
 
