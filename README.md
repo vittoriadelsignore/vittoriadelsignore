@@ -90,6 +90,10 @@ Tools: Power BI, SQL
 Tools: Python, Power BI, Excel
 ![Análisis](https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Analisis%20Diagnostico%20Bajas%20de%20Carrefour%20(circulo%20super)%20-%20PowerPoint%202024-02-11%2011-59-15.gif)
 
+## Tableau Public 
+Tools: Tableau, Excel
+![Dashboard](https://github.com/vittoriadelsignore/Tableau_Public/blob/master/VENTAS%20PASADAS%20_%20Tableau%20Public%20-%20Google%20Chrome%202024-02-12%2022-37-24.gif)
+
 ### Thank you for visiting my profile 🤓 
 
 <!---
