@@ -62,6 +62,9 @@
       &nbsp&nbsp&nbsp <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Tableau%20Logo.png" alt="Tableau"
       width="80" height="30" /> </a> 
+      &nbsp&nbsp&nbsp <a href="https://www.qlik.com/us" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Qlik%20Logo.png" alt="Qlik"
+      width="80" height="30" /> </a> 
       &nbsp&nbsp&nbsp <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/VSC%20Logo.png" alt="Visual Studio Code"
       width="60" height="40" /> </a>
