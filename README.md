@@ -67,7 +67,7 @@
       width="60" height="30" /> </a> 
       &nbsp&nbsp&nbsp <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/VSC%20Logo.png" alt="Visual Studio Code"
-      width="60" height="40" /> </a>
+      width="50" height="40" /> </a>
       &nbsp&nbsp&nbsp <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Logo%20R.png" alt="R"
       width="60" height="40" /> </a>
