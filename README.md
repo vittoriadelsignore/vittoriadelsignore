@@ -34,13 +34,13 @@
       &nbsp&nbsp&nbsp <a href="https://pandas.pydata.org/" target="blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/pandas.png"
       alt="pandas" width="60" height="40" /> </a>  
-      &nbsp&nbsp&nbsp <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      &nbsp&nbsp&nbsp <a href="https://www.python.org" target="blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a>  
-      &nbsp&nbsp&nbsp <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img
+      &nbsp&nbsp&nbsp <a href="https://www.numpy.org" target="blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Logo%20Numpy.png" alt="numpy"
       width="60" height="40" /> </a>  
-      &nbsp&nbsp&nbsp <a href="https://www.jupyter.org" target="_blank" rel="noreferrer"> <img
+      &nbsp&nbsp&nbsp <a href="https://www.jupyter.org" target="blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Jupyter.svg" alt="jupyter"
       width="60" height="30" /> </a> 
       &nbsp&nbsp&nbsp <a href="https://www.matplotlib.org" target="_blank" rel="noreferrer"> <img
