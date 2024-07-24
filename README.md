@@ -19,6 +19,9 @@
   <a href="https://www.linkedin.com/in/vittoriadelsignore/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
+      &nbsp&nbsp&nbsp <a href="https://vittoriadelsignore.my.canva.site/about" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/pandas.png"
+      alt="pandas" width="60" height="40" /> </a>
 </p>
 
 <br>
