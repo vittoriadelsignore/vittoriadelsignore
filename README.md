@@ -21,7 +21,7 @@
       alt="adam pithewan" height="30" width="40" /></a>
       &nbsp&nbsp&nbsp <a href="https://vittoriadelsignore.my.canva.site/about" target="_blank" rel="noreferrer"> <img
       src="https://github.com/vittoriadelsignore/vittoriadelsignore/blob/main/Canva_Logo.svg.png"
-      alt="canva" width="60" height="40" /> </a>
+      alt="canva" width="30" height="40" /> </a>
 </p>
 
 <br>
