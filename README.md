@@ -8,6 +8,7 @@
 - 💞️ I’m looking to collaborate on Python Projects
 - 💻 Learning every day
 - 📫 Contact me [E-mail](mailto:vdelsignore@gmail.com), [LinkedIn](https://www.linkedin.com/in/vittoriadelsignore/)
+- Living in Argentina
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vittoriadelsignore)
 
