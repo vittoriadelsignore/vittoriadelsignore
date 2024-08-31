@@ -89,6 +89,10 @@ Tools: Python
 ### [LINK!](https://github.com/vittoriadelsignore/CURSO_ARGENTINA_PROGRAMA/blob/master/TRAMO%202/v3.%20TP%20Integrador%201%20-%20Vittoria%20Del%20Signore%20(Individual)%20.ipynb)
 ![TP1 tramo 2 - Argentina Programa](https://github.com/vittoriadelsignore/CURSO_ARGENTINA_PROGRAMA/blob/master/TRAMO%202/v3.%20TP%20Integrador%201%20-%20Vittoria%20Del%20Signore%20(Individual)%20.ipynb%20-%20Colaboratory%20-%20Google%20Chrome%202024-02-12%2022-28-49.gif)
 
+## Dashboard Ficha Cliente
+Tools: Power BI, SQL
+![Ficha Cliente](https://github.com/vittoriadelsignore/Ficha_Cliente/blob/master/FICHA%20CLIENTE%202.0%20-%20Power%20BI%20-%20gif.gif)
+
 ## Dashboard Integral
 Tools: Power BI, SQL
 ![Dashboard Integral](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/MDW%20-%20PowerPoint%202024-02-14%2018-44-10.gif)
